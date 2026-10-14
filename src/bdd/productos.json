@@ -1,0 +1,17 @@
+[
+    {"id":"PR001","titulo":"Nvidia Geforce RTX 5060ti","precio":429990,"imagen":"img/productos/gpu_image_nvidia_rtx5060.png","categoria":"CT01","stock":8,"oferta":0},
+    {"id":"PR002","titulo":"Nvidia Geforce RTX 4070","precio":390000,"imagen":"img/productos/gpu_image_nvidia_rtx4070.webp","categoria":"CT01","stock":4,"oferta":369990},
+    {"id":"PR003","titulo":"AMD Radeon 9060xt","precio":400000,"imagen":"img/productos/gpu_image_amd_9060xt.webp","categoria":"CT01","stock":6,"oferta":0},
+    {"id":"PR004","titulo":"Monitor Samsung Odyssey G3","precio":189990,"imagen":"img/productos/monitor_image_samsung_odyssey_27.avif","categoria":"CT03","stock":12,"oferta":0},
+    {"id":"PR005","titulo":"Monitor LG UltraGear","precio":211990,"imagen":"img/productos/monitor_image_lg_ultragear_27.avif","categoria":"CT03","stock":3,"oferta":199990},
+    {"id":"PR006","titulo":"Monitor Acer","precio":189990,"imagen":"img/productos/monitor_image_acer_curvo_31.webp","categoria":"CT03","stock":9,"oferta":0},
+    {"id":"PR007","titulo":"AMD Ryzen 7","precio":319990,"imagen":"img/productos/cpu_image_amd_ryzen7_5700x.jpg","categoria":"CT02","stock":10,"oferta":0},
+    {"id":"PR008","titulo":"AMD Ryzen 9","precio":429990,"imagen":"img/productos/cpu_image_amd_ryzen9_5950x.jpg","categoria":"CT02","stock":2,"oferta":0},
+    {"id":"PR009","titulo":"Intel core I5-9400f","precio":239990,"imagen":"img/productos/cpu_image_intel_i5_9400f.webp","categoria":"CT02","stock":14,"oferta":219990},
+    {"id":"PR010","titulo":"RAM ADATA DDR4 8GB","precio":24990,"imagen":"img/productos/ram_image_adata_ddr4_8gb.jpg","categoria":"CT04","stock":30,"oferta":0},
+    {"id":"PR011","titulo":"RAM Hikvision DDR4 16GB","precio":39990,"imagen":"img/productos/ram_image_hikvision_ddr4_16gb.png","categoria":"CT04","stock":5,"oferta":0},
+    {"id":"PR012","titulo":"RAM Kingston DDR5 16GB","precio":69990,"imagen":"img/productos/ram_image_kingston_ddr5_16gb.jpg","categoria":"CT04","stock":18,"oferta":59990},
+    {"id":"PR013","titulo":"SSD Kingston 240GB","precio":19990,"imagen":"img/productos/ssd_image_kingston_240gb.webp","categoria":"CT05","stock":25,"oferta":0},
+    {"id":"PR014","titulo":"SSD WD 1TB","precio":64990,"imagen":"img/productos/ssd_image_wd_1tb.webp","categoria":"CT05","stock":1,"oferta":0},
+    {"id":"PR015","titulo":"SSD M.2 Kingston 500GB","precio":44990,"imagen":"img/productos/ssd_m2_image_kingston_500gb.webp","categoria":"CT05","stock":16,"oferta":39990}
+]

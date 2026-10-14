@@ -1,0 +1,4 @@
+[
+    {"id":"US001","nombre_completo":"Administrador","correo":"admin@gmail.com","contrasena":"admin123","telefono":"11111111","region":"metropolitana","comuna":"santiago","rol":"admin"},
+    {"id":"US002","nombre_completo":"Benjamin","correo":"benja@duoc.cl","contrasena":"1234","telefono":"11111111","region":"metropolitana","comuna":"la granja","rol":"cliente"}
+]

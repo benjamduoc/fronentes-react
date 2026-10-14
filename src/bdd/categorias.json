@@ -1,0 +1,7 @@
+[
+    {"id":"CT01","nombre":"Tarjetas de video"},
+    {"id":"CT02","nombre":"Procesadores"},
+    {"id":"CT03","nombre":"Monitores"},
+    {"id":"CT04","nombre":"Memoria RAM"},
+    {"id":"CT05","nombre":"Almacenamiento"}
+]
