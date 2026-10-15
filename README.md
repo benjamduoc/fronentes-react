@@ -1,4 +1,4 @@
-ienda online de componentes de computación (tarjetas de video, procesadores, monitores, memoria RAM y almacenamiento) con un panel de administración.
+Tienda online de componentes de computación (tarjetas de video, procesadores, monitores, memoria RAM y almacenamiento) con un panel de administración.
 
 Tecnologías
 React 19 y React Router 7 (rutas públicas y rutas de administrador)
