@@ -1,11 +1,12 @@
 Tienda online de componentes de computación (tarjetas de video, procesadores, monitores, memoria RAM y almacenamiento) con un panel de administración.
 
-Tecnologías
-React 19 y React Router 7 (rutas públicas y rutas de administrador)
-Bootstrap 5 y Bootstrap Icons (diseño responsivo)
-Vite 7 (servidor de desarrollo y build)
-Estado global con Context API: sesión, datos y carrito
-Persistencia en localStorage y sessionStorage
+## Tecnologías
+
+- React 19 y React Router 7 (rutas públicas y rutas de administrador)
+- Bootstrap 5 y Bootstrap Icons (diseño responsivo)
+- Vite 7 (servidor de desarrollo y build)
+- Estado global con Context API: sesión, datos y carrito
+- Persistencia en `localStorage` y `sessionStorage`
 
 ## Qué contiene
 
